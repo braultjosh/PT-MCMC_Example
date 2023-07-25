@@ -45,10 +45,10 @@ Preprocessing completed.
 
 You did not declare endogenous variables after the estimation/calib_smoother command.
 Prior distribution for parameter constebeta has unbounded density!
-[Warning: Some of the parameters have no value (ccs, cinvs, crdpi) when using initial_estimation_checks. If these parameters are not initialized in a
-steadystate file or a steady_state_model-block, Dynare may not be able to solve the model. Note that simul, perfect_foresight_setup, and
-perfect_foresight_solver do not automatically call the steady state file.] 
+[Warning: Some of the parameters have no value (ccs, cinvs, crdpi) when using initial_estimation_checks. If these parameters are not initialized in a steadystate file or a
+steady_state_model-block, Dynare may not be able to solve the model. Note that simul, perfect_foresight_setup, and perfect_foresight_solver do not automatically call the steady
+state file.] 
 Initial value of the log posterior (or likelihood): -52985.0861
-Total computing time : 0h00m00s
+Total computing time : 0h00m02s
 Note: 33 warning(s) encountered in the preprocessor
 Note: warning(s) encountered in MATLAB/Octave code

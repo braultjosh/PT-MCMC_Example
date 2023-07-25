@@ -5,7 +5,7 @@ addpath('./toolbox/');
 
 % User specified options %
 tune.niter          = 1000000; %  number of iterations
-tune.nchain         = 24; % number of auxiliary distributions
+tune.nchain         = 6; % number of auxiliary distributions
 tune.nburn          = 250000; % number of burn-in iterations
 tune.c              = repmat(0.025, 1, tune.nchain); % initial scale parameter
 tune.trgt           = 0.23; % target for MH acceptance
